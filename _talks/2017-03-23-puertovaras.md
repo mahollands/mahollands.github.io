@@ -8,4 +8,4 @@ date: 2017-03-23
 location: "Chile"
 ---
 
-Presented at Astrochemsitry VII IAU symposium 332
+Presented at Astrochemsitry VII, IAU symposium 332
