@@ -8,7 +8,7 @@ author_profile: true
 ## First Author publications
 
 ## [An ultra-massive white dwarf with a mixed hydrogen-carbon atmosphere as a likely merger remnant](https://ui.adsabs.harvard.edu/abs/2020NatAs...4..663H/abstract)
-<strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, M. E. Camisassa, D. Koester, A. Aungwerojwit, P. Chote, A. H. Córsico, V. S. Dhillon, N. P. Gentile-Fusillo, M. J. Hoskin, P. Izquierdo, T. R. Marsh, D. Steeghs, Nature Astronomy, 4, 663 (2020)
+<strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, M. E. Camisassa, D. Koester, A. Aungwerojwit, P. Chote, A. H. Córsico, V. S. Dhillon, N. P. Gentile-Fusillo, M. J. Hoskin, P. Izquierdo, T. R. Marsh, D. Steeghs, <em>Nature Astronomy</em> 4, 663 (2020)
 
 ## [The Gaia 20 pc white dwarf sample](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.3942H/abstract)
 <strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, N. P. Gentile-Fusillo, S. Toonen, <em>MNRAS</em> 480, 3942 (2018)
@@ -36,7 +36,7 @@ Andrew Swan, Jay Farihi, Detlev Koester, <strong>Mark Hollands</strong>, Steven 
 R. Raddi, <strong>M. A. Hollands</strong>, D. Koester, J. J. Hermes, B. T. Gänsicke, U. Heber, K. J. Shen, D. M. Townsley, A. F. Pala, J. S. Reding, O. F. Toloza, I. Pelisoli, S. Geier, N. P. Gentile Fusillo, U. Munari, J. Strader, <em>MNRAS</em> 489, 1489 (2019)
 
 ## [A planetesimal orbiting within the debris disc around a white dwarf star](https://ui.adsabs.harvard.edu/abs/2019Sci...364...66M/abstract)
-Christopher J. Manser, Boris T. Gänsicke, Siegfried Eggl, <strong>Mark Hollands</strong>, Paula Izquierdo, Detlev Koester, John D. Landstreet, Wladimir Lyra, Thomas R. Marsh, Farzana Meru, Alexander J. Mustill, Pablo Rodríguez-Gil, Odette Toloza, Dimitri Veras, David J. Wilson, Matthew R. Burleigh, Melvyn B. Davies, Jay Farihi, Nicola Gentile Fusillo, Domitilla de Martino, Steven G. Parsons, Andreas Quirrenbach, Roberto Raddi, Sabine Reffert, Melania Del Santo, Matthias R. Schreiber, Roberto Silvotti, Silvia Toonen, Eva Villaver, Mark Wyatt, Siyi Xu, Simon Portegies Zwart, <em>Sci</em> 364, 66 (2019)
+Christopher J. Manser, Boris T. Gänsicke, Siegfried Eggl, <strong>Mark Hollands</strong>, Paula Izquierdo, Detlev Koester, John D. Landstreet, Wladimir Lyra, Thomas R. Marsh, Farzana Meru, Alexander J. Mustill, Pablo Rodríguez-Gil, Odette Toloza, Dimitri Veras, David J. Wilson, Matthew R. Burleigh, Melvyn B. Davies, Jay Farihi, Nicola Gentile Fusillo, Domitilla de Martino, Steven G. Parsons, Andreas Quirrenbach, Roberto Raddi, Sabine Reffert, Melania Del Santo, Matthias R. Schreiber, Roberto Silvotti, Silvia Toonen, Eva Villaver, Mark Wyatt, Siyi Xu, Simon Portegies Zwart, <em>Science</em> 364, 66 (2019)
 
 ## [A Gaia Data Release 2 catalogue of white dwarfs and a comparison with SDSS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.4570G/abstract)
 Nicola Pietro Gentile Fusillo, Pier-Emmanuel Tremblay, Boris T. Gänsicke, Christopher J. Manser, Tim Cunningham, Elena Cukanovaite, <strong>Mark Hollands</strong>, Thomas Marsh, Roberto Raddi, Stefan Jordan, Silvia Toonen, Stephan Geier, Martin Barstow, Jeffrey D. Cummings, <em>MNRAS</em> 482, 4570 (2019)

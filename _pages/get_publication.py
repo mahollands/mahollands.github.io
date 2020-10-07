@@ -51,6 +51,8 @@ with open("abstract", 'r') as F:
                 journal = 'Nature'
             elif journal == 'NatAs':
                 journal = 'Nature Astronomy'
+            elif journal == 'Sci':
+                journal = 'Science'
             journal = f'<em>{journal}</em>'
         if '<meta name="prism.volume"' in line:
             volume = line.replace('<meta name="prism.volume" content="', '')
