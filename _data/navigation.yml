@@ -4,10 +4,13 @@ main:
     url: /publications/
 
   - title: "Conferences"
-    url: /talks/    
+    url: /conferences/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /files/mhollands_cv.pdf
+
+  - title: "Personal Interests"
+    url: /personal/
