@@ -47,10 +47,11 @@ with open("abstract", 'r') as F:
             journal = line.replace('<meta name="prism.publicationName" content="', '')
             journal = journal.replace('" />', '')
             journal = journal.strip()
-            if journal == 'Nat':
+            if journal == 'Natur':
                 journal = 'Nature'
             elif journal == 'NatAs':
                 journal = 'Nature Astronomy'
+            journal = f'<em>{journal}</em>'
         if '<meta name="prism.volume"' in line:
             volume = line.replace('<meta name="prism.volume" content="', '')
             volume = volume.replace('" />', '')
@@ -68,5 +69,5 @@ os.remove("abstract")
 
 authors = ", ".join(authors)
             
-print(title)
-print("{}, {}, {}, {} ({})".format(authors, journal, volume, page, year))
+print("## [{}]({})".format(title, link))
+print("{}, {} {}, {} ({})".format(authors, journal, volume, page, year))
