@@ -45,7 +45,8 @@ Because the processes that affect white dwarf cooling rates are fairly well
 understood, the coolest (and thus oldest) white dwarfs provide firm constraints
 on the age of the Galactic disk.
 
-##White Dwarfs in Gaia
+## White Dwarfs in Gaia
+
 The Gaia satellite, placed in 2013, has been precisely measuring the positions
 of about 1 billion stars. In particular it measures the stellar parallax, the
 effect of stellar positions subtly changing as the satellite orbits the Sun (in
@@ -61,7 +62,7 @@ ions in white dwarf interiors (see select publications below). Thanks to Gaia,
 great strides are being made in many areas of astronomy, and so it is an
 exciting time to be studying white dwarfs.
 
-##White dwarf planetary systems
+## White dwarf planetary systems
 The transition from the main-sequence to the white dwarf stage should only
 destroy the very inner-most part of their planetary-systems, and so white
 dwarfs should continue to be orbited by planets for many Gyr after their
@@ -79,6 +80,7 @@ determine the composition of extraSolar asteroids -- the building blocks from
 which exoplanets are formed.
 
 ##Magnetic white dwarfs
+
 For around 20% of white dwarfs, a magnetic field can be detected. These range
 from a few kiloGauss (few 0.1 Tesla) all the way up to 1 GigaGauss (100000
 Tesla). How these fields are formed is still a matter of debate with
