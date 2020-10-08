@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,118 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoc in the Warwick Astronomy and Astrophysics group. I am currently
+working with Pier-Emmanuel Tremblay on white dwarfs in the Gaia survey.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Research Interests
 
-**Markdown generator**
+I am primarily concerned with the study of white dwarfs. This type of stellar
+remnant represents the end-state for the 95%+ of main-sequence stars with
+masses below 8 Solar-masses, which will not undergo a core-collapse supernova.
+Instead, while in the giant-star phase of evolution, the outer 50% of the star
+will be ejected in an intense stellar wind. The remaining 50%, no longer
+producing pressure via nuclear fusion in the stellar interior, is unable to
+contend with the intense gravitational forces. The core thus collapses until
+the quantum-phenomenon known as electron-degeneracy pressure can balance
+gravity. The result is a hot (100000 K), immensely dense, Earth-sized object --
+the white dwarf.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+The interior of a typical white dwarf is mostly (99%) a mix of carbon-oxygen
+ions in a sea of degenerate electrons. Around this, is an envelope of helium
+(about 1% of the mass), and usually, a final shroud of hydrogen (0.01% of the
+mass). Our telescopes of course can only directly see the outer-most layers and
+what they're made of. Therefore the interior composition is constrained from
+our theoretical understanding of how stars evolve, but also from observations
+of pulsating white dwarfs where waves travelling through the interior make it
+to the surface, providing information on the density of the central
+carbon-oxygen core.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Because white dwarfs do not fuse-nuclei in their cores, they instead radiate
+away their internal energy, at first cooling rapidly, and then much more slowly
+the temperature of the white dwarf outer layers decrease. The oldest white
+dwarfs known to the Milky Way can have cooled from an initial 100000 K to a
+relatively cool 3000 K (only half the temperature at the surface of the Sun).
+Because the processes that affect white dwarf cooling rates are fairly well
+understood, the coolest (and thus oldest) white dwarfs provide firm constraints
+on the age of the Galactic disk.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+##White Dwarfs in Gaia
+The Gaia satellite, placed in 2013, has been precisely measuring the positions
+of about 1 billion stars. In particular it measures the stellar parallax, the
+effect of stellar positions subtly changing as the satellite orbits the Sun (in
+tandem with the Earth). The stars nearest the Solar System have the largest
+parallaxes, and so this provides the most accurate way to measure distances to
+our nearest stellar neighbours. Thanks to Gaia Data Release 2 (DR2) in April
+2018, the parallaxes of one billion stars are now publically available, for
+which about 260000 are for white dwarfs. This has increased the number of known
+white dwarfs almost ten-fold, and allows us to learn about these objects in
+entirely new ways. One of our major new results, which would have previously
+been impossible, is the confirmation of crystallisation of the carbon+oxygen
+ions in white dwarf interiors (see select publications below). Thanks to Gaia,
+great strides are being made in many areas of astronomy, and so it is an
+exciting time to be studying white dwarfs.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+##White dwarf planetary systems
+The transition from the main-sequence to the white dwarf stage should only
+destroy the very inner-most part of their planetary-systems, and so white
+dwarfs should continue to be orbited by planets for many Gyr after their
+formation. We now see direct evidence for these planetary systems resulting
+from the disintegration of asteroids (and occasionally comets) which venture
+too close to the white dwarf. Once within about a Solar-radius of the white
+dwarf, gravitational tides, can shred an asteroid into dust, forming a debris
+disk which slowly accretes onto the white dwarf surface. These disks -- heated
+by the nearby degenerate star -- can be detected via their emission of
+infra-red flux. The chemical elements that make up the asteroids that have
+fallen onto the central star can also be detected, as they temporarily alter
+the composition of the white dwarf outer layers. Measuring the relative amounts
+of these elements (e.g. O, Si, Al, Mg, Ca, Fe, Ni), means we can directly
+determine the composition of extraSolar asteroids -- the building blocks from
+which exoplanets are formed.
+
+##Magnetic white dwarfs
+For around 20% of white dwarfs, a magnetic field can be detected. These range
+from a few kiloGauss (few 0.1 Tesla) all the way up to 1 GigaGauss (100000
+Tesla). How these fields are formed is still a matter of debate with
+suggestions of Fossil-fields from the main-sequence, dynamo generation during
+the giant star phases, dynamo generation in the disks of accreting white
+dwarfs, or though the process of interior crystallisation (or maybe some
+combination of several of these). Magnetic fields can detected either through
+circular polarisation of light from the white dwarf, or (more commonly these
+days), via the Zeeman effect that typically causes spectral lines to be split
+into three closely spaced lines, where the degree of the splitting corresponds
+to the field strength. The most magnetic white dwarfs known, have fields that
+cannot be generated in an Earth-based lab and so provide a unique way to learn
+about how atoms behave when subjected to extreme magnetism.
+
+##Survivors of white dwarf binary interactions
+Unlike objects in our day-to-day lives, white dwarfs become physically smaller
+as they become more massive. This leads to a limit known as the
+Chandrasekhar-Mass (1.4 Solar Masses), at which point the electron-degeneracy
+pressure can no longer support the mass of the star, and so runaway nuclear
+fusion occurs resulting in the explosion of the white dwarf as a supernova
+called a type Ia. For this kind of supernova to occur a white dwarf must grow
+in mass until it reaches the Chandrasekhar-limit. This is possible for white
+dwarfs who have a close binary companion star. Either the white dwarf pulls
+material from a "normal" star, slowly growing its mass, or two white dwarfs can
+merge forming an new white dwarf that exceeds the Chandrasekhar-Mass which
+undergoes rapid collapse.
+
+Recently a new subclass of type Ia supernovae has been identified called type
+Iax. The Iaxs are much less luminous than normal type Ia supernovae, suggesting
+that the white dwarf does not fully explode leaving behind some intact fragment
+of the former star, which is then ejected from the binary star system. In 2017
+an usual white dwarf called GD492/LP40-365 has been identified which fits the
+description of a surviving remnant from a type Iax supernova. GD492 moves
+through the Milky Way so fast that it is essentially being flung out of the
+Galaxy. Furthermore it has a truly remarkable surface composition -- instead of
+the usual hydrogen or helium atmosphere typical of white dwarfs, these elements
+are entirely absent, and instead a unique atmosphere dominated by oxygen, neon,
+and magnesium is seen, with traces of heavier elements all the way up to
+nickel. The set of elements and their abundances are signatures of nuclear
+burning of carbon, oxygen, and silicon. Stars like GD492 therefore provide a
+novel way to study a nearby objects and connecting them to supernovae seen
+distant Galaxies.
+
+
