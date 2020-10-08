@@ -1,7 +1,7 @@
 ---
 title: "Mathematics seminars"
 collection: teaching
-type: ""
+type: "Problems classes"
 permalink: /teaching/maths_seminars
 venue: "The University of Warwick"
 date: 2014-10-01

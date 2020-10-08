@@ -1,7 +1,7 @@
 ---
 title: "Lecturing experience"
 collection: teaching
-type: ""
+type: "Lecturing"
 permalink: /teaching/electronics_workshop
 venue: "The University of Warwick"
 date: 2018-01-01
