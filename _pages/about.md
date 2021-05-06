@@ -11,41 +11,28 @@ redirect_from:
 I am a postdoc in the Warwick Astronomy and Astrophysics group. I am currently
 working with Pier-Emmanuel Tremblay on white dwarfs in the Gaia survey.
 
-I am primarily concerned with the study of white dwarfs. This type of stellar
-remnant represents the end-state for the 95%+ of main-sequence stars with
-masses below 8 Solar-masses, which will not undergo a core-collapse supernova.
-Instead, while in the giant-star phase of evolution, the outer 50% of the star
-will be ejected in an intense stellar wind. The remaining 50%, no longer
-producing pressure via nuclear fusion in the stellar interior, is unable to
-contend with the intense gravitational forces. The core thus collapses until
-the quantum-phenomenon known as electron-degeneracy pressure can balance
-gravity. The result is a hot (100000 K), immensely dense, Earth-sized object --
-the white dwarf.
+# White Dwarfs
 
-The interior of a typical white dwarf is mostly (99%) a mix of carbon-oxygen
-ions in a sea of degenerate electrons. Around this, is an envelope of helium
-(about 1% of the mass), and usually, a final shroud of hydrogen (0.01% of the
-mass). Our telescopes of course can only directly see the outer-most layers and
-what they're made of. Therefore the interior composition is constrained from
-our theoretical understanding of how stars evolve, but also from observations
-of pulsating white dwarfs where waves travelling through the interior make it
-to the surface, providing information on the density of the central
-carbon-oxygen core.
+I am primarily concerned with the study of white dwarfs, the dense cores of
+former stars like our Sun, which represent the end-state of more than 95% of
+main-sequence stars overall. These stellar remnants, having exhausted their
+internal supply of hydrogen and helium fuel, do not undergo any nuclear fusion
+in their interiors (being composed mostly of carbon and oxygen). Instead white
+dwarfs can be thought of as stellar embers, slowly radiating away their
+internal heat over billions of years, where the oldest white dwarfs in the
+Galaxy have cooled from an initial 100,000 K to a relatively cool 3,000 K.
 
-Because white dwarfs do not fuse-nuclei in their cores, they instead radiate
-away their internal energy, at first cooling rapidly, and then much more slowly
-the temperature of the white dwarf outer layers decrease. The oldest white
-dwarfs known to the Milky Way can have cooled from an initial 100000 K to a
-relatively cool 3000 K (only half the temperature at the surface of the Sun).
-Because the processes that affect white dwarf cooling rates are fairly well
-understood, the coolest (and thus oldest) white dwarfs provide firm constraints
-on the age of the Galactic disk.
+My primary tool in studying white dwarfs is spectroscopy, which astronomers
+like myself can probe the physical conditions in the outer layers of stars.
+This allows the measurement of the chemical composition, temperature, surface
+gravity, pressure, density, and even the presence of magnetic fields.
 
 ------
 
-# Research Interests
+# Primary research Interests
 
 * [White Dwarfs in Gaia](/interests/gaia.md)
+* [Model atmospheres](/interests/atms.md)
 * [White dwarf planetary systems](interests/wdplanets.md)
 * [Magnetic white dwarfs](interests/magnetic.md)
 * [Survivors of white dwarf binary interactions](interests/survivors.md)
