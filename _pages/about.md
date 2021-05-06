@@ -15,6 +15,11 @@ working with Pier-Emmanuel Tremblay on white dwarfs in the Gaia survey.
 
 # Research Interests
 
+* White Dwarfs in Gaia
+* White dwarf planetary systems
+* [Magnetic white dwarfs](interests/magnetic.md)
+* Survivors of white dwarf binary interactions
+
 I am primarily concerned with the study of white dwarfs. This type of stellar
 remnant represents the end-state for the 95%+ of main-sequence stars with
 masses below 8 Solar-masses, which will not undergo a core-collapse supernova.
