@@ -1,4 +1,9 @@
-# Magnetic white dwarfs
+---
+permalink: /interests/magnetic
+title: "Magnetic white dwarfs"
+excerpt: "Magnetic white dwarfs"
+author_profile: true
+---
 
 For around 20% of white dwarfs, a magnetic field can be detected. These range
 from a few kiloGauss (few 0.1 Tesla) all the way up to 1 GigaGauss (100,000

@@ -1,3 +1,10 @@
+---
+permalink: /interests/wdplanets
+title: "White dwarf planetary systems"
+excerpt: "White dwarf planetary systems"
+author_profile: true
+---
+
 The transition from the main-sequence to the white dwarf stage should only
 destroy the very inner-most part of their planetary-systems, and so white
 dwarfs should continue to be orbited by planets for many Gyr after their

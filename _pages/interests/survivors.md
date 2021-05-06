@@ -1,3 +1,10 @@
+---
+permalink: /interests/survivors
+title: "Survivors of white dwarf binary interactions"
+excerpt: "Survivors of white dwarf binary interactions"
+author_profile: true
+---
+
 Unlike objects in our day-to-day lives, white dwarfs become physically smaller
 as they become more massive. This leads to a limit known as the
 Chandrasekhar-Mass (1.4 Solar Masses), at which point the electron-degeneracy
