@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /about/interests/gaia
 title: "White dwarfs in Gaia"
 excerpt: "White dwarfs in Gaia"
 author_profile: true
 redirect_from: 
-  - /about/gaia
-  - /gaia.html
+  - /interests/gaia
+  - /interests/gaia.html
 ---
 
 The Gaia satellite, placed in orbit it 2013, has been precisely measuring the
