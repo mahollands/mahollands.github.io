@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "White dwarfs in Gaia"
+excerpt: "White dwarfs in Gaia"
+author_profile: true
+redirect_from: 
+  - /about/gaia
+  - /gaia.html
+---
+
 The Gaia satellite, placed in orbit it 2013, has been precisely measuring the
 positions of about 1 billion stars. In particular it measures the stellar
 parallax, the effect of stellar positions subtly changing as the satellite
