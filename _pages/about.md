@@ -79,7 +79,7 @@ of these elements (e.g. O, Si, Al, Mg, Ca, Fe, Ni), means we can directly
 determine the composition of extraSolar asteroids -- the building blocks from
 which exoplanets are formed.
 
-##Magnetic white dwarfs
+## Magnetic white dwarfs
 
 For around 20% of white dwarfs, a magnetic field can be detected. These range
 from a few kiloGauss (few 0.1 Tesla) all the way up to 1 GigaGauss (100000
@@ -95,7 +95,7 @@ to the field strength. The most magnetic white dwarfs known, have fields that
 cannot be generated in an Earth-based lab and so provide a unique way to learn
 about how atoms behave when subjected to extreme magnetism.
 
-##Survivors of white dwarf binary interactions
+## Survivors of white dwarf binary interactions
 Unlike objects in our day-to-day lives, white dwarfs become physically smaller
 as they become more massive. This leads to a limit known as the
 Chandrasekhar-Mass (1.4 Solar Masses), at which point the electron-degeneracy
@@ -123,5 +123,3 @@ nickel. The set of elements and their abundances are signatures of nuclear
 burning of carbon, oxygen, and silicon. Stars like GD492 therefore provide a
 novel way to study a nearby objects and connecting them to supernovae seen
 distant Galaxies.
-
-
