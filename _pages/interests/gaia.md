@@ -4,7 +4,6 @@ title: "White dwarfs in Gaia"
 excerpt: "White dwarfs in Gaia"
 author_profile: true
 redirect_from: 
-  - /interests/gaia
   - /interests/gaia.html
 ---
 
