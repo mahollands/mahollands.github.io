@@ -1,5 +1,5 @@
 ---
-permalink: /about/interests/gaia
+permalink: /interests/gaia
 title: "White dwarfs in Gaia"
 excerpt: "White dwarfs in Gaia"
 author_profile: true
