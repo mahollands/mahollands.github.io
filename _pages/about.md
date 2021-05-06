@@ -45,7 +45,7 @@ on the age of the Galactic disk.
 
 # Research Interests
 
-* [White Dwarfs in Gaia](/interests/gaia)
+* [White Dwarfs in Gaia](/interests/gaia.md)
 * [White dwarf planetary systems](interests/wdplanets.md)
 * [Magnetic white dwarfs](interests/magnetic.md)
 * [Survivors of white dwarf binary interactions](interests/survivors.md)
