@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mark Hollands"
   avatar           : "profile.png"
-  bio              : "I am an postdoctoral researcher specialising in white dwarf stars"
+  bio              : "I am a postdoctoral researcher specialising in white dwarf stars"
   location         : "The University of Warwick"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "M.Hollands.1@warwick.ac.uk"
+  email            : "M.Hollands.1 <at> warwick.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
