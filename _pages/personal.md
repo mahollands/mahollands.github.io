@@ -5,9 +5,10 @@ permalink: /personal/
 author_profile: true
 ---
 
-In my spare time I am interested in
+Outside of work I am interested in
 
-* cooking
-* homebrewing (beer and mead)
-* hiking
-* gaming (particularly simrally)
+* Cooking
+* Homebrewing (beer and mead)
+* Hiking
+* Sim-rally
+* [Cinema](https://www.youtube.com/watch?v=Sv_GcxkmW4Y)
