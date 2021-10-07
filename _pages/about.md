@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Warwick Astronomy and Astrophysics group. I am currently
-working with Pier-Emmanuel Tremblay on white dwarfs in the Gaia survey.
+I am a postdoc in the Sheffield Physics & Astronomy group. I am currently
+working with Stuart Littlefair on the white dwarf inital-mass final-mass
+relation (IFMR).
 
 # White Dwarfs
 
