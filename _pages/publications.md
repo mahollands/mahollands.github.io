@@ -8,7 +8,7 @@ author_profile: true
 ## First Author publications
 
 ## [Alkali metals in white dwarf atmospheres as tracers of ancient planetary crusts ](https://ui.adsabs.harvard.edu/abs/2021NatAs.tmp...25H/abstract)
-<strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, D. Koester, N. P. Gentile-Fusillo, <em>Nature Astronomy</em> In press (2021)
+<strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, D. Koester, N. P. Gentile-Fusillo, <em>Nature Astronomy</em> 5, 451 (2021)
 
 ## [An ultra-massive white dwarf with a mixed hydrogen-carbon atmosphere as a likely merger remnant](https://ui.adsabs.harvard.edu/abs/2020NatAs...4..663H/abstract)
 <strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, M. E. Camisassa, D. Koester, A. Aungwerojwit, P. Chote, A. H. Córsico, V. S. Dhillon, N. P. Gentile-Fusillo, M. J. Hoskin, P. Izquierdo, T. R. Marsh, D. Steeghs, <em>Nature Astronomy</em> 4, 663 (2020)
