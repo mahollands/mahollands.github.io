@@ -7,6 +7,9 @@ author_profile: true
 
 ## First Author publications
 
+## [Spectral analysis of cool white dwarfs accreting from planetary systems: from the ultraviolet to the optical](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511...71H/abstract)
+<strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, D. Koester, <em>MNRAS</em> 511, 71 (2022)
+
 ## [Alkali metals in white dwarf atmospheres as tracers of ancient planetary crusts ](https://ui.adsabs.harvard.edu/abs/2021NatAs.tmp...25H/abstract)
 <strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, D. Koester, N. P. Gentile-Fusillo, <em>Nature Astronomy</em> 5, 451 (2021)
 
