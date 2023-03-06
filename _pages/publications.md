@@ -7,6 +7,9 @@ author_profile: true
 
 ## First Author publications
 
+## [A DZ white dwarf with a 30 MG magnetic field](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..169H/abstract)
+<strong>M. A. Hollands</strong>, S. Stopkowicz, M.-P. Kitsaras, F. Hampe, S. Blaschke, J.J. Hermes, <em>MNRAS</em> 520, 3560 (2023)
+
 ## [Spectral analysis of cool white dwarfs accreting from planetary systems: from the ultraviolet to the optical](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511...71H/abstract)
 <strong>M. A. Hollands</strong>, P.-E. Tremblay, B. T. Gänsicke, D. Koester, <em>MNRAS</em> 511, 71 (2022)
 
