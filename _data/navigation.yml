@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /https://ui.adsabs.harvard.edu/public-libraries/-5pP8wfkRCaOGJNtFhjMDg
+    url: https://ui.adsabs.harvard.edu/public-libraries/-5pP8wfkRCaOGJNtFhjMDg
 
   - title: "Conferences"
     url: /conferences/    
