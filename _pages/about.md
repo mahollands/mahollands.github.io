@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a postdoc in the Sheffield Physics & Astronomy group. I am currently
-working with Stuart Littlefair on the white dwarf inital-mass final-mass
-relation (IFMR).
+working with Stuart Littlefair on the Inital-Final Mass Relation using wide
+double white dwarf binaries.
 
 # White Dwarfs
 
@@ -37,4 +37,5 @@ gravity, pressure, density, and even the presence of magnetic fields.
 * [White dwarf planetary systems](interests/wdplanets.md)
 * [Magnetic white dwarfs](interests/magnetic.md)
 * [Survivors of white dwarf binary interactions](interests/survivors.md)
+* [The Initial-Final Mass-Relation](interests/ifmr.md)
 
