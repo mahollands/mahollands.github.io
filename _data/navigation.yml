@@ -1,14 +1,11 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /https://ui.adsabs.harvard.edu/public-libraries/-5pP8wfkRCaOGJNtFhjMDg
 
   - title: "Conferences"
     url: /conferences/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
     url: /files/mhollands_cv.pdf
 

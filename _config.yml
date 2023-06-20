@@ -83,8 +83,8 @@ author:
   name             : "Mark Hollands"
   avatar           : "profile.png"
   bio              : "I am a postdoctoral researcher specialising in white dwarf stars"
-  location         : "The University of Sheffield"
-  employer         :
+  location         :
+  employer         : "The University of Sheffield"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "m.hollands+AT+sheffield.ac.uk"
