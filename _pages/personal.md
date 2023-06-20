@@ -7,8 +7,9 @@ author_profile: true
 
 Outside of work I am interested in
 
-* Cooking
-* Homebrewing (beer and mead)
 * Hiking
+* Cooking
+* Mushroom hunting
+* Homebrewing (beer and mead)
 * Sim-rally
-* [Cinema](https://www.youtube.com/watch?v=Sv_GcxkmW4Y)
+* Cinema
