@@ -9,7 +9,7 @@ Due to the extremes of temperatures/densities in their outer layers, white
 dwarfs serve as excellent probes of physical conditions which cannot be
 recreated in Earth-based laboratories. For white dwarfs (and all types of
 stars), these conditions are revealed by obtaining spectroscopic measurements,
-in essence the amount of light emitted by the star at each wavelength. To
+in essence the amount of light radiated by the star at each wavelength. To
 understand these complicated spectra, astronomers must construct models taking
 into account the constituent physics and all relevant atomic/molecular data.
 
@@ -25,4 +25,4 @@ my own research, I have put these models to use for the analysis of:
 * ultra-massive white dwarfs that have survived double white merger
 * extremely low mass white dwarfs
 * ultracool white dwarfs
-* shrapnel from white dwarf supernovae
+* survivors of white dwarf supernovae

@@ -5,18 +5,18 @@ excerpt: "White dwarfs in Gaia"
 author_profile: true
 ---
 
-The Gaia satellite, placed in orbit it 2013, has been precisely measuring the
-positions of about 1 billion stars. In particular it measures the stellar
-parallax, the effect of stellar positions subtly changing as the satellite
-orbits the Sun (in tandem with the Earth). The stars nearest the Solar System
-have the largest parallaxes, and so this provides the most accurate way to
-measure distances to our nearest stellar neighbours. Thanks to Gaia Data
-Release 2 (DR2) in April 2018, the parallaxes of one billion stars are now
-publically available, for which about 260000 are for white dwarfs. This has
-increased the number of known white dwarfs almost ten-fold, and allows us to
-learn about these objects in entirely new ways. One of our major new results,
-which would have previously been impossible, is the confirmation of
-crystallisation of the carbon+oxygen ions in white dwarf interiors (see select
-publications below). Thanks to Gaia, great strides are being made in many areas
-of astronomy, and so it is an exciting time to be studying white dwarfs.
+The ESA Gaia mission has completely revolutionised the field of white dwarfs,
+increasing the number of known degenerate stars by an order of magnitude (to
+around 350,000). More specifically, Gaia has precisely measured the parallaxes
+for billions of stars within our Galaxy, allowing their distances to be
+inferred. Before Gaia, a faint blue source could have been a nearby faint star
+like a white dwarf, or a more distant main sequence star, with expensive
+spectroscopy the only way to distinguish between them. Gaia has therefore
+allowed white dwarfs to be identified from their absolute brightnesses
+(corrected for distance).
 
+This has led to several major results in the white dwarf field, including
+population studies, the identification of white dwarfs that do not cool
+due to distillation of Ne-22 during the crystallisation phase, and the
+discovery of hyperrunaway white dwarfs with the fastest velocities of any
+stars within our Galaxy.

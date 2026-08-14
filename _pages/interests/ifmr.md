@@ -33,7 +33,10 @@ produced the binary, assuming that both have the same total
 age. Using a Bayesian framework, a large sample of wide double white
 dwarfs can be used to provide tight constraints on the IFMR.
 
-I am currently applying the work of Andrews et al. (2015) to a large population
-of double white dwarfs identified through Gaia, while also extending the
-Bayesian framework to detect to outliers and underestimated systematic
-uncertainties.
+I recently applied the work of Andrews et al. (2015) to a large population of
+double white dwarfs identified through Gaia, while also extending the Bayesian
+framework to detect to outliers and underestimated systematic uncertainties.
+You can read about our results
+[here](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.9061H/exportcitation). I
+am now working to extend this framework to the case of a non-monotonic IFMR, as
+suggested by some cluster studies. 
