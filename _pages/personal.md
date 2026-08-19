@@ -8,8 +8,8 @@ author_profile: true
 Outside of work I am interested in
 
 * Hiking
+* [Mushroom foraging](images/porcini.jpg)
 * Cooking
-* Mushroom hunting
-* Homebrewing (beer and mead)
 * Sim-rally
+* Homebrewing
 * Cinema
